@@ -27,14 +27,6 @@ map TITLEMAP lookup "JAMP2_TITLEMAP"
 	nointermission
 }
 
-map MAP01 lookup "JAMP2_MAP_DOOMTHEROBOT"
-{
-	author = "DoomTheRobot"
-	sky1 = "VAC_SKY", 0.1
-	music = "D_BLOSS"
-	levelnum = 1
-}
-
 cluster 1
 {
 	hub
