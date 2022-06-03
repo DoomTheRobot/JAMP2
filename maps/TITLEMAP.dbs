@@ -35,8 +35,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 1515.859f;
-		viewpositionx = -2156.875f;
+		viewpositiony = 778.1034f;
+		viewpositionx = 2911.271f;
 		
 		testprecommand
 		{
@@ -60,7 +60,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.1949817f;
+		viewscale = 1.223481f;
 		
 		reloadresourceprecommand
 		{
@@ -91,6 +91,31 @@ maps
 			autocloseonsuccess = true;
 			exitcodeiserror = true;
 			stderriserror = true;
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 724;
+				firstvisibleline = 12;
+				activetab = true;
+			}
 		}
 	}
 }
