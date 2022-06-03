@@ -1,6 +1,6 @@
 ## Jonathan's Arcade Mapping Project #2: Tropical Dynamite
 
-![M_Doom Art](graphics/JAMP2.PNG)
+![M_Doom Art](/graphics/JAMP2.png)
 
 Currently a huge W.I.P, but mapping has officially begun.
 Please join our [Discord](https://discord.gg/xZd5MxK) for more information.
