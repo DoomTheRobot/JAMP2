@@ -1,0 +1,2 @@
+IWAD = "doom2.wad"
+STARTUPTITLE = "Jonathan's Arcade Mapping Project #2: Tropical Dynamite"

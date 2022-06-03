@@ -1,0 +1,41 @@
+defaultmap
+{
+	ResetHealth
+	ResetInventory
+	ResetItems
+	nojump
+	nocrouch
+	ForgetState
+	
+	next = "TITLEMAP"
+	cluster = 1
+}
+
+clearepisodes
+episode TITLEMAP
+{
+}
+
+map TITLEMAP lookup "JAMP2_TITLEMAP"
+{
+	sky1 = "BIGSKY", 0.0
+	next = "MAP01"
+	levelnum = 0
+	
+	rememberstate
+	allowrespawn
+	nointermission
+}
+
+map MAP01 lookup "JAMP2_MAP_DOOMTHEROBOT"
+{
+	author = "DoomTheRobot"
+	sky1 = "VAC_SKY", 0.1
+	music = "D_BLOSS"
+	levelnum = 1
+}
+
+cluster 1
+{
+	hub
+}
