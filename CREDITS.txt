@@ -1,0 +1,30 @@
+CREDITS
+--------------------------------------------------------------------------------------------
+Sprites:
+
+Duke Caribbean: Life's A Beach				Sunstorm Interactive
+Freedoom v0.7								Freedoom
+Ayeloo
+--------------------------------------------------------------------------------------------
+Textures:
+
+UDMX 										Clan Unidoom
+Duke Caribbean: Life's A Beach				Sunstorm Interactive
+--------------------------------------------------------------------------------------------
+Music:
+
+D_DM2TTL: Title Screen - Super Mario Sunshine			Sequenced by JustDamian
+D_DM2INT: Pinna Park - Beach - Super Mario Sunshine		Sequenced by Stacy Anne Christiansen
+D_HUB:	  Gelato Beach - Super Mario Sunshine			Sequenced by ElectroPiZZa
+D_BLOSS:  Blossom Shower - Mamorukun Curse				Sequenced by AlkioneD70
+SMK-04:   Race Fanfare - Super Mario Kart				Composed by Soyo Oka
+SMK-05:	  Time Trial Start - Super Mario Kart			Composed by Soyo Oka
+SMK-17:	  Koopa Beach - Super Mario Kart				Composed by Soyo Oka
+SMK-18:	  Koopa Beach (Final Lap) - Super Mario Kart	Composed by Soyo Oka
+SMK-23:	  Final Lap Notice - Super Mario Kart			Composed by Soyo Oka
+SMK-25:	  New Record - Super Mario Kart					Composed by Soyo Oka
+SMK-S06:  Goal! - Super Mario Kart						Composed by Soyo Oka
+--------------------------------------------------------------------------------------------
+Maps:
+
+TITLEMAP
