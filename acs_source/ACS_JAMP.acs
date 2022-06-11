@@ -24,10 +24,10 @@ script "JAMP2_ShowMapTitle" OPEN
 		HUDMSG_FADEINOUT, 0, CR_RED, 320.4, 85.0, 3.5, 1.0);
 
 		// GZDoom will only show the Author name display...
-		if (GetPlayerAccountName(0) == 0) // I hate Zandronum so much.
+//		if (GetPlayerAccountName(0) == 0) // I hate Zandronum so much.
 		{								  // And SLADE too, actually!
 			HudmessageBold(s:"By: ", s:AuthorNames[AuthorArray];
 			HUDMSG_FADEINOUT | HUDMSG_LOG, 0, CR_WHITE, 320.4, 106.0, 3.5, 1.0);
-		} // TODO: Find a way to get the author string to work in Zandronum.
+		} // TODO: Find a way to get the author string to work in Zandronum. */
 	}
 }
