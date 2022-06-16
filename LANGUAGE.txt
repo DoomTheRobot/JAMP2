@@ -1,6 +1,7 @@
 [enu default] // US English written by DoomTheRobot
 // Map Names
-JAMP2_TITLEMAP = "Jericoacoara Beach"; 	  // HUB Map
+JAMP2_TITLEMAP = "Jericoacoara Beach"; 	  		      // HUB Map
 JAMP2_MAP_DOOMTHEROBOT = "Cozy Cove";				  // DoomTheRobot's Map
 JAMP2_MAP_AYELOO = "Hell's Kitchen";				  // Ayeloo's Map
 JAMP2_MAP_LAZORINC = "Sopa de Ma Caco";				  // Lazorinc's Map
+JAMP2_MAP_NAN = "";									  // NaN's Map
