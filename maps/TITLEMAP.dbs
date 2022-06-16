@@ -35,8 +35,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 814.6101f;
-		viewpositionx = -1042.506f;
+		viewpositiony = 958.5028f;
+		viewpositionx = -4613.522f;
 		
 		testprecommand
 		{
@@ -56,11 +56,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.3230581f;
+		viewscale = 0.06692982f;
 		
 		reloadresourceprecommand
 		{
@@ -93,6 +93,15 @@ maps
 			stderriserror = true;
 		}
 		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
+			}
+		}
+		
 		scriptdocuments
 		{
 			
@@ -112,8 +121,7 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 699;
-				firstvisibleline = 6;
+				caretposition = 703;
 				activetab = true;
 			}
 		}

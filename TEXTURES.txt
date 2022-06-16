@@ -1,0 +1,5 @@
+walltexture TITLEZAN, 320, 200
+{
+	NoDecals
+	Patch TITLEPIC, 0, 0
+}

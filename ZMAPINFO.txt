@@ -3,8 +3,6 @@ defaultmap
 	ResetHealth
 	ResetInventory
 	ResetItems
-	nojump
-	nocrouch
 	ForgetState
 	
 	next = "TITLEMAP"
