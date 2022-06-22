@@ -17,8 +17,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 545.8916f;
-		viewpositionx = -648.566f;
+		viewpositiony = -239.5291f;
+		viewpositionx = 3029.341f;
 		
 		testprecommand
 		{
@@ -38,11 +38,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 1;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 2.027118f;
+		viewscale = 0.0371292f;
 		
 		reloadresourceprecommand
 		{
@@ -104,9 +104,9 @@ maps
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 16;
+						sectordepth = 2;
 						spacing = 0;
-						frontside = false;
+						frontside = true;
 						singlesectors = true;
 						distinctsectors = false;
 						singledirection = false;
