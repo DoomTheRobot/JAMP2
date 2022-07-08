@@ -20,7 +20,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2\\jamp2tex.wad";
+				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2\\jamp2stuff.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -35,8 +35,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 4871.484f;
-		viewpositionx = -4455.534f;
+		viewpositiony = 4277.107f;
+		viewpositionx = -4849.618f;
 		
 		testprecommand
 		{
@@ -60,7 +60,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 2.317228f;
+		viewscale = 1.75227f;
 		
 		reloadresourceprecommand
 		{
@@ -107,6 +107,30 @@ maps
 					outertop = 1792;
 					outerbottom = 1280;
 				}
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 211;
+				activetab = true;
 			}
 		}
 	}
