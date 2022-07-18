@@ -34,9 +34,18 @@ maps
 				option2 = 0;
 				notfortesting = 0;
 			}
+			
+			resource2
+			{
+				type = 2;
+				location = "C:\\Users\\doomg\\Downloads\\pallaxingskybox.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
 		}
-		viewpositiony = 4729.214f;
-		viewpositionx = -3237.872f;
+		viewpositiony = 1917.818f;
+		viewpositionx = -4664.777f;
 		
 		testprecommand
 		{
@@ -56,11 +65,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 1024;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 1.036845f;
+		viewscale = 0.03712928f;
 		
 		reloadresourceprecommand
 		{
