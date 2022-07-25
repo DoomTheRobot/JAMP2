@@ -17,8 +17,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 7560.724f;
-		viewpositionx = -227.0106f;
+		viewpositiony = 10710.07f;
+		viewpositionx = -134.4424f;
 		
 		testprecommand
 		{
@@ -53,21 +53,21 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 8;
+						numberofsectors = 1;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
 						sectordepth = 32;
 						spacing = 0;
-						frontside = false;
+						frontside = true;
 						singlesectors = false;
 						distinctsectors = false;
 						singledirection = false;
-						distinctbaseheights = false;
+						distinctbaseheights = true;
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
-						floormod = -8;
+						floormod = 8;
 						applyceilingmod = true;
 						ceilingmod = 0;
 						applyfloortexture = false;
@@ -75,12 +75,12 @@ maps
 						applyceilingtexture = false;
 						ceilingtexture = "";
 						applyuppertexture = true;
-						uppertexture = "TEKGREN2";
+						uppertexture = "-";
 						upperunpegged = true;
 						applymiddletexture = false;
 						middletexture = "-";
 						applylowertexture = true;
-						lowertexture = "TEKGREN2";
+						lowertexture = "-";
 						lowerunpegged = true;
 					}
 				}
@@ -97,11 +97,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.3028746f;
+		viewscale = 1.46191f;
 		
 		reloadresourceprecommand
 		{
