@@ -3,3 +3,9 @@ walltexture TITLEZAN, 320, 200
 	NoDecals
 	Patch TITLEPIC, 0, 0
 }
+
+Flat "DTRWATER", 64, 64
+{
+	NoDecals
+	Patch "FWATER1", 0, 0
+}

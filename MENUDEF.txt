@@ -1,0 +1,19 @@
+OptionMenu "ReadThisMenu"
+{
+	Title "$MNU_INFO"
+	statictext "PLEASE"
+	statictext ""
+	statictext "DO YOUR WORK"
+	statictext ""
+	statictext ""
+	statictext ""
+	option "Compat Type", "JAMP2_MissionType", "JAMP2_3option"
+}
+
+OptionValue "JAMP2_3option"
+{
+    0, "No (Default)"
+    1, "Vanilla/Boom Maps Only"
+    2, "ZDoom/Zandronum Maps Only"
+	3, "All Maps In Order"
+}
