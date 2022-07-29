@@ -6,6 +6,10 @@ Duke Caribbean: Life's A Beach				Sunstorm Interactive
 Freedoom v0.7								Freedoom
 Ayeloo
 --------------------------------------------------------------------------------------------
+Graphics:
+
+TITLEPIC, CREDIT, INTERPIC					Ayeloo
+--------------------------------------------------------------------------------------------
 Textures:
 
 UDMX 										Clan Unidoom
