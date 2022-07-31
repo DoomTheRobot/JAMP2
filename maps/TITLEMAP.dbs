@@ -35,8 +35,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 2275.483f;
-		viewpositionx = -3145.303f;
+		viewpositiony = 1178.284f;
+		viewpositionx = -6250.879f;
 		
 		testprecommand
 		{
