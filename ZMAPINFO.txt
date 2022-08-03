@@ -25,7 +25,7 @@ episode TITLEMAP
 
 map TITLEMAP lookup "JAMP2_TITLEMAP"
 {
-	sky1 = "BIGSKY", 0.0
+	sky1 = BIGSKY
 	next = "MAP01"
 	levelnum = 0
 	
