@@ -11,8 +11,7 @@ After working your ass off for several years, you finally get enough PTO to get 
 
 # Texture Set
 
-Texture resource wad for Vanilla/Boom can be found [here](jamp2tex.wad).
-Textures for ZDoom ports are [here](textures).
+Texture resource wad can be found [here](jamp2stuff.wad).
 
 #
 

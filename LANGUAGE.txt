@@ -5,3 +5,7 @@ JAMP2_MAP_DOOMTHEROBOT = "Cozy Cove";				  // DoomTheRobot's Map
 JAMP2_MAP_AYELOO = "Hell's Kitchen";				  // Ayeloo's Map
 JAMP2_MAP_LAZORINC = "Sopa de Ma Caco";				  // Lazorinc's Map
 JAMP2_MAP_NAN = "Duo Eye Pogo";						  // NaN's Map
+JAMP2_MAP_AGENTMANOVIC = "Caustic Caverns";			  // Agent Manovic's Map
+JAMP2_MAP_TGF = "";									  // The Gaming Fox's Map
+JAMP2_MAP_MATACRAT = "";							  // Matacrat's Map
+JAMP2_MAP_OIAHUSK = "";								  // OiaHusk's Map
