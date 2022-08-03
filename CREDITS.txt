@@ -5,6 +5,7 @@ Sprites:
 Duke Caribbean: Life's A Beach				Sunstorm Interactive
 Freedoom v0.7								Freedoom
 Ayeloo
+NaN
 --------------------------------------------------------------------------------------------
 Graphics:
 

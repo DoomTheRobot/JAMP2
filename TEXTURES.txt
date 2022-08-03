@@ -7,5 +7,5 @@ walltexture TITLEZAN, 320, 200
 Flat "DTRWATER", 64, 64
 {
 	NoDecals
-	Patch "FWATER1", 0, 0
+	Patch FWATER1, 0, 0
 }
