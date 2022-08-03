@@ -19,15 +19,6 @@ maps
 			
 			resource0
 			{
-				type = 0;
-				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2\\jamp2stuff.wad";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
-			
-			resource1
-			{
 				type = 1;
 				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2";
 				option1 = 0;
@@ -35,8 +26,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = -5045.903f;
-		viewpositionx = 13144.51f;
+		viewpositiony = 4310.952f;
+		viewpositionx = -4507.59f;
 		
 		testprecommand
 		{
@@ -60,7 +51,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 4.175376f;
+		viewscale = 0.8650405f;
 		
 		reloadresourceprecommand
 		{
@@ -130,7 +121,7 @@ maps
 				tabtype = 0;
 				scripttype = 1;
 				caretposition = 816;
-				firstvisibleline = 5;
+				firstvisibleline = 39;
 				activetab = true;
 			}
 		}

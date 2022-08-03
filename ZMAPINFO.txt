@@ -11,6 +11,9 @@ defaultmap
 	ResetItems
 	ForgetState
 	
+	nojump
+	nocrouch
+	
 	next = "TITLEMAP"
 	cluster = 1
 }
