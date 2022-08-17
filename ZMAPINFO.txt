@@ -34,12 +34,6 @@ map TITLEMAP lookup "JAMP2_TITLEMAP"
 	nointermission
 }
 
-map MAP01 lookup "JAMP2_MAP01"
-{
-	levelnum = 1
-	sky1 = SKY1
-}
-
 map MAP02 lookup "JAMP2_MAP02"
 {
 	levelnum = 2
