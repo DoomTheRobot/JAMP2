@@ -34,30 +34,6 @@ map TITLEMAP lookup "JAMP2_TITLEMAP"
 	nointermission
 }
 
-map MAP02 lookup "JAMP2_MAP02"
-{
-	levelnum = 2
-	sky1 = SKY1
-}
-
-map MAP03 lookup "JAMP2_MAP03"
-{
-	levelnum = 3
-	sky1 = SKY1
-}
-
-map MAP04 lookup "JAMP2_MAP04"
-{
-	levelnum = 4
-	sky1 = SKY1
-}
-
-map MAP05 lookup "JAMP2_MAP05"
-{
-	levelnum = 5
-	sky1 = SKY1
-}
-
 cluster 1
 {
 	hub
