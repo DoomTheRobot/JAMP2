@@ -17,8 +17,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 11070.19f;
-		viewpositionx = -2068.978f;
+		viewpositiony = 9837.881f;
+		viewpositionx = -264.0612f;
 		
 		testprecommand
 		{
@@ -42,7 +42,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.1060424f;
+		viewscale = 0.06274755f;
 		
 		reloadresourceprecommand
 		{
@@ -90,6 +90,48 @@ maps
 					outerbottom = -1088;
 				}
 			}
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+					
+					prefab1
+					{
+						name = "[Previous]";
+						numberofsectors = 7;
+						outervertexmultiplier = 1;
+						innervertexmultiplier = 1;
+						stairtype = 0;
+						sectordepth = 1;
+						spacing = 0;
+						frontside = false;
+						singlesectors = false;
+						distinctsectors = false;
+						singledirection = false;
+						distinctbaseheights = false;
+						flipping = 0;
+						numberofcontrolpoints = 1;
+						applyfloormod = true;
+						floormod = 0;
+						applyceilingmod = true;
+						ceilingmod = 0;
+						applyfloortexture = false;
+						floortexture = "";
+						applyceilingtexture = false;
+						ceilingtexture = "";
+						applyuppertexture = true;
+						uppertexture = "-";
+						upperunpegged = true;
+						applymiddletexture = false;
+						middletexture = "-";
+						applylowertexture = true;
+						lowertexture = "-";
+						lowerunpegged = true;
+					}
+				}
+			}
 		}
 		
 		fieldtypes
@@ -98,6 +140,31 @@ maps
 			sector
 			{
 				user_managed_3d_floor = 3;
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 1735;
+				firstvisibleline = 75;
+				activetab = true;
 			}
 		}
 	}
