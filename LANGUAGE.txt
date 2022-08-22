@@ -9,3 +9,4 @@ JAMP2_MAP_AGENTMANOVIC = "Caustic Caverns";			  // Agent Manovic's Map
 JAMP2_MAP_TGF = "";									  // The Gaming Fox's Map
 JAMP2_MAP_MATACRAT = "";							  // Matacrat's Map
 JAMP2_MAP_OIAHUSK = "Sir Tevo";						  // OiaHusk's Map
+JAMP2_MAP_ROAST = "Stay with Me";					  // General Roasterock's Map
