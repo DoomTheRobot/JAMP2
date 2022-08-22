@@ -17,8 +17,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 9837.881f;
-		viewpositionx = -264.0612f;
+		viewpositiony = 333.3449f;
+		viewpositionx = 11885.97f;
 		
 		testprecommand
 		{
@@ -31,7 +31,7 @@ maps
 		
 		grid
 		{
-			backoffsetx = 0;
+			backoffsetx = -8;
 			backsource = 0;
 			gridoriginy = 0;
 			backscaley = 100;
@@ -40,9 +40,9 @@ maps
 			gridoriginx = 0;
 			gridsize = 8;
 			background = "";
-			backoffsety = 0;
+			backoffsety = 24;
 		}
-		viewscale = 0.06274755f;
+		viewscale = 0.02196975f;
 		
 		reloadresourceprecommand
 		{
@@ -84,10 +84,10 @@ maps
 				controlsectorarea
 				{
 					usecustomtagrange = false;
-					outerleft = 6656;
+					outerleft = 6720;
 					outerright = 6976;
-					outertop = -640;
-					outerbottom = -1088;
+					outertop = -1536;
+					outerbottom = -2816;
 				}
 			}
 			
@@ -100,17 +100,17 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 7;
+						numberofsectors = 1;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 1;
+						sectordepth = 16;
 						spacing = 0;
-						frontside = false;
-						singlesectors = false;
+						frontside = true;
+						singlesectors = true;
 						distinctsectors = false;
 						singledirection = false;
-						distinctbaseheights = false;
+						distinctbaseheights = true;
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
@@ -162,9 +162,10 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 1735;
-				firstvisibleline = 75;
+				caretposition = 2952;
+				firstvisibleline = 32;
 				activetab = true;
+				foldlevels = "1024:26,96,117,141,156,172,181,212,270,298,306,338,364,380,393,403";
 			}
 		}
 	}
