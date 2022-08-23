@@ -9,7 +9,7 @@ maps
 	{
 		defaultwalltexture = "STARTAN2";
 		overridemiddletexture = false;
-		defaultceiltexture = "CEIL1_1";
+		defaultceiltexture = "NANPC13";
 		overrideceiltexture = false;
 		custombrightness = 196;
 		scriptcompiler = "zdoom_acs.cfg";
@@ -17,8 +17,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 9837.881f;
-		viewpositionx = -264.0612f;
+		viewpositiony = 369.0198f;
+		viewpositionx = 4901.349f;
 		
 		testprecommand
 		{
@@ -31,18 +31,18 @@ maps
 		
 		grid
 		{
-			backoffsetx = 0;
+			backoffsetx = -8;
 			backsource = 0;
 			gridoriginy = 0;
 			backscaley = 100;
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 0.125;
 			background = "";
-			backoffsety = 0;
+			backoffsety = 24;
 		}
-		viewscale = 0.06274755f;
+		viewscale = 0.03712926f;
 		
 		reloadresourceprecommand
 		{
@@ -84,10 +84,10 @@ maps
 				controlsectorarea
 				{
 					usecustomtagrange = false;
-					outerleft = 6656;
+					outerleft = 6720;
 					outerright = 6976;
-					outertop = -640;
-					outerbottom = -1088;
+					outertop = -1536;
+					outerbottom = -2816;
 				}
 			}
 			
@@ -100,17 +100,17 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 7;
+						numberofsectors = 1;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 1;
+						sectordepth = 16;
 						spacing = 0;
-						frontside = false;
-						singlesectors = false;
+						frontside = true;
+						singlesectors = true;
 						distinctsectors = false;
 						singledirection = false;
-						distinctbaseheights = false;
+						distinctbaseheights = true;
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
@@ -162,9 +162,10 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 1735;
-				firstvisibleline = 75;
+				caretposition = 12103;
+				firstvisibleline = 50;
 				activetab = true;
+				foldlevels = "1024:31,106,127,151,166,181,217,232,236,245,276,349,377,385,417,444,461,474,484,494,502,510,543";
 			}
 		}
 	}
