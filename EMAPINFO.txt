@@ -1,2 +1,14 @@
 [MAP01]
-levelname = EE Placeholder
+levelname = Sopa de Ma Caco
+creator = Lazorinc
+nextlevel = MAP02
+partime = 270
+disable-jump = true
+skyname = SKYTANG2
+
+[MAP03]
+levelname = Stay With Me
+creator = General Roasterock
+endofgame = true
+disable-jump = true
+skyname = SKYND03A

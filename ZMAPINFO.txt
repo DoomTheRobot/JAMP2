@@ -25,13 +25,42 @@ episode TITLEMAP
 
 map TITLEMAP lookup "JAMP2_TITLEMAP"
 {
-	sky1 = BIGSKY
+	sky1 = "BIGSKY", 0.0
 	next = "MAP01"
 	levelnum = 0
 	
 	rememberstate
 	allowrespawn
 	nointermission
+}
+
+map MAP01 lookup "JAMP2_MAP_LAZORINC"
+{
+	author = "Lazorinc"
+	sky1 = "SKYTANG2", 0.0
+	music = "D_RUNNIN"
+	par = 270
+}
+
+map MAP02 lookup "JAMP2_MAP_AYELOO"
+{
+	author = "Ayeloo"
+	sky1 = "SKY1", 0.0
+	music = "D_STALKS"
+}
+
+map MAP03 lookup "JAMP2_MAP_ROAST"
+{
+	author = "General Roasterock"
+	sky1 = "SKYND03A", 0.0
+	music = "D_COUNTD"
+}
+
+map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
+{
+	author = "DoomTheRobot"
+	sky1 = "VAC_SKY", 0.1
+	music = "D_BETWEE"
 }
 
 cluster 1

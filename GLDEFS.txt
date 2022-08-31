@@ -1,0 +1,52 @@
+Glow
+{
+	Flats
+	{
+		DTRLAVA
+	}
+}
+
+flickerlight LOSTSOUL
+{
+    color 0.3 0.6 1.0
+    size 84
+    secondarysize 64
+    chance 0.1
+	attenuate 1
+}
+
+flickerlight LOSTSOUL_X1
+{
+    color 0.3 0.5 0.8
+    size 108
+    secondarySize 120
+    chance 0.25
+	attenuate 1
+}
+
+flickerlight LOSTSOUL_X2
+{
+    color 0.2 0.3 0.6
+    size 132
+    secondarySize 144
+    chance 0.25
+	attenuate 1
+}
+
+flickerlight LOSTSOUL_X3
+{
+    color 0.0 0.1 0.4
+    size 156
+    secondarySize 168
+    chance 0.25
+	attenuate 1
+}
+
+flickerlight LOSTSOUL_X4
+{
+    color 0.0 0.0 0.2
+    size 168
+    secondarySize 180
+    chance 0.25
+	attenuate 1
+}

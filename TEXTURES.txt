@@ -9,3 +9,17 @@ Flat "DTRWATER", 64, 64
 	NoDecals
 	Patch FWATER1, 0, 0
 }
+
+Flat "DTRLAVA", 64, 64
+{
+	NoDecals
+	Patch "LAVA1", 0, 0
+}
+
+WallTexture "VINESX", 128, 128
+{
+	Patch "VINES2", 0, 0
+	{
+		FlipX
+	}
+}
