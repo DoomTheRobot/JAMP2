@@ -10,5 +10,6 @@ skyname = SKYTANG2
 levelname = Stay With Me
 creator = General Roasterock
 endofgame = true
+partime = 90
 disable-jump = true
 skyname = SKYND03A
