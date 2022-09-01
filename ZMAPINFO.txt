@@ -47,6 +47,7 @@ map MAP02 lookup "JAMP2_MAP_AYELOO"
 	author = "Ayeloo"
 	sky1 = "SKY1", 0.0
 	music = "D_STALKS"
+	Map07Special
 }
 
 map MAP03 lookup "JAMP2_MAP_ROAST"
@@ -63,6 +64,22 @@ map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
 	sky1 = "VAC_SKY", 0.1
 	music = "D_BETWEE"
 	par = 90
+}
+
+map MAP05 lookup "JAMP2_MAP_OIAHUSK"
+{
+	author = "OiaHusk"
+	sky1 = "SKY1", 0.0
+	music = "D_DOOM"
+	par = 1020
+}
+map MAP06 lookup "JAMP2_MAP_NAN"
+{
+	author = "NaN"
+	lightmode = 16
+	sky1 = "SKY1", 0.0
+	music = "D_RUNNIN"
+	par = 2400
 }
 
 cluster 1

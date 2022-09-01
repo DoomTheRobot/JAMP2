@@ -18,12 +18,14 @@ Duke Caribbean: Life's A Beach				Sunstorm Interactive
 --------------------------------------------------------------------------------------------
 Music:
 
-D_DM2TTL : Title Screen - Super Mario Sunshine			Sequenced by JustDamian
-D_DM2INT : Pinna Park - Beach - Super Mario Sunshine	Sequenced by Stacy Anne Christiansen
-D_HUB    : Gelato Beach - Super Mario Sunshine			Sequenced by ElectroPiZZa
-D_RUNNIN : Take these pills and be who you are			jmickle
-R_COUNTD : it's_cold_up_here							Zachary Stephens
-D_BETWEE : Blossom Shower - Mamorukun Curse				Sequenced by AlkioneD70
+D_DM2TTL : Title Screen - Super Mario Sunshine					Sequenced by JustDamian
+D_DM2INT : Pinna Park - Beach - Super Mario Sunshine			Sequenced by Stacy Anne Christiansen
+D_HUB    : Gelato Beach - Super Mario Sunshine					Sequenced by ElectroPiZZa
+D_RUNNIN : Take these pills and be who you are					jmickle
+D_STALKS : MAP05 of Avactor										Eradropp
+D_COUNTD : it's_cold_up_here									Zachary Stephens
+D_BETWEE : Blossom Shower - Mamorukun Curse						Sequenced by AlkioneD70
+D_DOOM	 : Sirena Beach - Hotel Delfino - Super Mario Sunshine	???
 --------------------------------------------------------------------------------------------
 Maps:
 
@@ -32,3 +34,4 @@ MAP01	 : Sopa de Ma Caco								Lazorinc
 MAP02	 : Armadeira									Ayeloo
 MAP03    : Stay With Me									General Roasterock
 MAP04	 : Cozy Cove									DoomTheRobot
+MAP05	 : Sir Tevo										OiaHusk
