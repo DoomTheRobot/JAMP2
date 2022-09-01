@@ -54,6 +54,7 @@ map MAP03 lookup "JAMP2_MAP_ROAST"
 	author = "General Roasterock"
 	sky1 = "SKYND03A", 0.0
 	music = "D_COUNTD"
+	par = 90
 }
 
 map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
@@ -61,9 +62,11 @@ map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
 	author = "DoomTheRobot"
 	sky1 = "VAC_SKY", 0.1
 	music = "D_BETWEE"
+	par = 90
 }
 
 cluster 1
 {
 	hub
+	AllowIntermission
 }
