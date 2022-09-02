@@ -8,26 +8,27 @@ script "JAMP2_ShowMapTitle" OPEN
 	{
 		str AuthorArray = GetLevelInfo(LEVELINFO_LEVELNUM);
 		
-		str AuthorNames[3] = 
-		{ "Unknown",
-		"\cmDoom\crThe\cgRobot\c-",
-		"Ayeloo" }; // TODO: This is only for demonstration. Fix later!
+		str AuthorNames[8] = 
+		{ "Unknown", // Just in case. ¯\_(ツ)_/¯
+		"Lazorinc",
+		"Ayeloo",
+		"General Roasterock",
+		"DoomTheRobot",
+		"Agent Manovic",
+		"OiaHusk",
+		"NaN" };
 		
 		SetHudSize(640, 400, 0);
 	
 		Setfont("bigfont");
 		HudmessageBold(n:PRINTNAME_LEVELNAME;
-		HUDMSG_FADEINOUT | HUDMSG_LOG, 0, CR_WHITE, 320.4, 97.0, 3.5, 1.0);
+		HUDMSG_FADEINOUT | HUDMSG_LOG, 0, CR_CYAN, 320.4, 97.0, 3.5, 1.0);
 
 		Setfont("smallfont");
-		HudmessageBold(n:PRINTNAME_LEVEL;
-		HUDMSG_FADEINOUT, 0, CR_RED, 320.4, 85.0, 3.5, 1.0);
+/*		HudmessageBold(n:PRINTNAME_LEVEL;
+		HUDMSG_FADEINOUT, 0, CR_RED, 320.4, 85.0, 3.5, 1.0);*/
 
-		// GZDoom will only show the Author name display...
-/*		if (GetPlayerAccountName(0) == 0) // I hate Zandronum so much.
-		{								  // And SLADE too, actually!
-			HudmessageBold(s:"By: ", s:AuthorNames[AuthorArray];
-			HUDMSG_FADEINOUT | HUDMSG_LOG, 0, CR_WHITE, 320.4, 106.0, 3.5, 1.0);
-		} // TODO: Find a way to get the author string to work in Zandronum. */
+		HudmessageBold(s:"By: ", s:AuthorNames[AuthorArray];
+		HUDMSG_FADEINOUT | HUDMSG_LOG, 0, CR_WHITE, 320.4, 106.0, 3.5, 1.0);
 	}
 }

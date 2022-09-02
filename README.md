@@ -2,7 +2,7 @@
 
 ![M_Doom Art](/graphics/JAMP2.png)
 
-Currently a huge W.I.P, but mapping has officially begun.
+Currently a huge W.I.P.
 Please join our [Discord](https://discord.gg/xZd5MxK) for more information.
 
 # Story

@@ -1,0 +1,279 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "GZDoom_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		defaultwalltexture = "STARTAN2";
+		overridemiddletexture = false;
+		defaultceiltexture = "NANPC13";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		scriptcompiler = "zdoom_acs.cfg";
+		
+		resources
+		{
+		}
+		viewpositiony = 3643.033f;
+		viewpositionx = 19668.68f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = -8;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 8;
+			background = "";
+			backoffsety = 24;
+		}
+		viewscale = 0.013f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "STARTAN2";
+		overridebottomtexture = false;
+		defaultbottomtexture = "STARTAN2";
+		defaultfloortexture = "NANPC12";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = 6720;
+					outerright = 6976;
+					outertop = -1536;
+					outerbottom = -2816;
+				}
+			}
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+					
+					prefab1
+					{
+						name = "[Previous]";
+						numberofsectors = 1;
+						outervertexmultiplier = 1;
+						innervertexmultiplier = 1;
+						stairtype = 0;
+						sectordepth = 16;
+						spacing = 0;
+						frontside = true;
+						singlesectors = true;
+						distinctsectors = false;
+						singledirection = false;
+						distinctbaseheights = true;
+						flipping = 0;
+						numberofcontrolpoints = 1;
+						applyfloormod = true;
+						floormod = 0;
+						applyceilingmod = true;
+						ceilingmod = 0;
+						applyfloortexture = false;
+						floortexture = "";
+						applyceilingtexture = false;
+						ceilingtexture = "";
+						applyuppertexture = true;
+						uppertexture = "-";
+						upperunpegged = true;
+						applymiddletexture = false;
+						middletexture = "-";
+						applylowertexture = true;
+						lowertexture = "-";
+						lowerunpegged = true;
+					}
+				}
+			}
+		}
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
+			}
+		}
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 12103;
+				firstvisibleline = 50;
+				activetab = true;
+				foldlevels = "1024:31,106,127,151,166,181,217,232,236,245,276,349,377,385,417,444,461,474,484,494,502,510,543";
+			}
+		}
+	}
+	
+	MAP06
+	{
+		viewpositionx = 1779.169f;
+		
+		grid
+		{
+			backsource = 0;
+			backscaley = 100;
+			backscalex = 100;
+			gridsize = 4;
+			gridoriginx = 0;
+			background = "";
+			backoffsetx = 0;
+			gridrotate = 0;
+			gridoriginy = 0;
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		overridemiddletexture = false;
+		
+		testprecommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "NANPC12";
+		defaultbottomtexture = "STARTAN2";
+		defaulttoptexture = "STARTAN2";
+		defaultwalltexture = "STARTAN2";
+		viewpositiony = 9581.591f;
+		overrideceilheight = false;
+		defaultceiltexture = "NANPC13";
+		viewscale = 0.09745017f;
+		
+		reloadresourcepostcommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		
+		reloadresourceprecommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		custombrightness = 196;
+		uselongtexturenames = false;
+		overridefloorheight = false;
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
+			}
+		}
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		scriptcompiler = "zdoom_acs.cfg";
+		customceilheight = 128;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 1;
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource1
+			{
+				type = 0;
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2\\jamp2monsters.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource2
+			{
+				type = 0;
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2\\jamp2stuff.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		customfloorheight = 0;
+		overridetoptexture = false;
+	}
+}

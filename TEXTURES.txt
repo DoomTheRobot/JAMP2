@@ -1,9 +1,3 @@
-walltexture TITLEZAN, 320, 200
-{
-	NoDecals
-	Patch TITLEPIC, 0, 0
-}
-
 Flat "DTRWATER", 64, 64
 {
 	NoDecals
@@ -22,4 +16,46 @@ WallTexture "VINESX", 128, 128
 	{
 		FlipX
 	}
+}
+
+WallTexture "MAP01_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP01_IN", 0, 0
+}
+
+WallTexture "MAP02_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP02_IN", 0, 0
+}
+
+WallTexture "MAP03_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP03_IN", 0, 0
+}
+
+WallTexture "MAP04_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP04_IN", 0, 0
+}
+
+WallTexture "MAP05_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP05_IN", 0, 0
+}
+
+WallTexture "MAP06_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP06_IN", 0, 0
+}
+
+WallTexture "MAP07_HU", 320, 200
+{
+	NoDecals
+	Graphic "MAP07_IN", 0, 0
 }

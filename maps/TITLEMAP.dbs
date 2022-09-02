@@ -25,18 +25,9 @@ maps
 				option2 = 0;
 				notfortesting = 0;
 			}
-			
-			resource1
-			{
-				type = 0;
-				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2\\jamp2stuff.wad";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
 		}
-		viewpositiony = 1050.916f;
-		viewpositionx = 3100.812f;
+		viewpositiony = 1607.857f;
+		viewpositionx = -1292.345f;
 		
 		testprecommand
 		{
@@ -56,11 +47,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 128;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.4061143f;
+		viewscale = 1.461919f;
 		
 		reloadresourceprecommand
 		{
@@ -93,6 +84,23 @@ maps
 			stderriserror = true;
 		}
 		
+		plugins
+		{
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = 5504;
+					outerright = 6016;
+					outertop = 1920;
+					outerbottom = 1408;
+				}
+			}
+		}
+		
 		fieldtypes
 		{
 			
@@ -121,8 +129,7 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 354;
-				firstvisibleline = 36;
+				caretposition = 1197;
 				activetab = true;
 			}
 		}

@@ -5,6 +5,16 @@ nextlevel = MAP02
 partime = 270
 disable-jump = true
 skyname = SKYTANG2
+interpic = MAP01_IN
+
+[MAP02]
+levelname = 
+creator = Ayeloo
+nextlevel = MAP03
+partime = 2180
+disable-jump = true
+skyname = SKY1
+interpic MAP02_IN
 
 [MAP03]
 levelname = Stay With Me
@@ -13,3 +23,4 @@ endofgame = true
 partime = 90
 disable-jump = true
 skyname = SKYND03A
+interpic = MAP03_IN
