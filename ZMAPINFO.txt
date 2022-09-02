@@ -93,7 +93,7 @@ map MAP07 lookup "JAMP2_MAP_NAN"
 {
 	author = "NaN"
 	lightmode = 16
-	sky1 = "SKY1", 0.0
+	sky1 = "BIGSKY", 0.0
 	music = "D_SHAWN"
 	par = 2400
 	ExitPic = "MAP07_IN"

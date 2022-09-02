@@ -1,0 +1,36 @@
+// JAMP 2 DECORATE by DoomTheRobot
+
+ACTOR BrownSpike 90
+{
+radius 8
+height 50
+scale 0.5
++SOLID
+states
+  {
+  Spawn:
+    BRSP A -1
+    Stop
+  }
+}
+
+ACTOR TrafficCone 91
+{
+radius 8
+height 40
+scale 0.7
++SOLID
+states
+  {
+  Spawn:
+    CONE A -1
+    Stop
+  }
+}
+
+ACTOR CeilingStalagmite : Stalagmite 92
+{
++YFLIP
++SPAWNCEILING
++NOGRAVITY
+}

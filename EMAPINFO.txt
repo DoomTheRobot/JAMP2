@@ -8,19 +8,21 @@ skyname = SKYTANG2
 interpic = MAP01_IN
 
 [MAP02]
-levelname = 
+levelname = Armadeira
 creator = Ayeloo
 nextlevel = MAP03
 partime = 2180
 disable-jump = true
 skyname = SKY1
 interpic MAP02_IN
+boss-specials = MAP07_2
 
 [MAP03]
 levelname = Stay With Me
 creator = General Roasterock
-endofgame = true
 partime = 90
 disable-jump = true
 skyname = SKYND03A
 interpic = MAP03_IN
+endofgame = true
+intertext = EMAPTEXT

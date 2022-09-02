@@ -28,7 +28,7 @@ script "JAMP2_ShowMapTitle" OPEN
 /*		HudmessageBold(n:PRINTNAME_LEVEL;
 		HUDMSG_FADEINOUT, 0, CR_RED, 320.4, 85.0, 3.5, 1.0);*/
 
-		HudmessageBold(s:"By: ", s:AuthorNames[AuthorArray];
+		HudmessageBold(s:"\ckBy\cj: \cc", s:AuthorNames[AuthorArray];
 		HUDMSG_FADEINOUT | HUDMSG_LOG, 0, CR_WHITE, 320.4, 106.0, 3.5, 1.0);
 	}
 }
