@@ -169,4 +169,111 @@ maps
 			}
 		}
 	}
+	
+	MAP06
+	{
+		viewpositionx = 1779.169f;
+		
+		grid
+		{
+			backsource = 0;
+			backscaley = 100;
+			backscalex = 100;
+			gridsize = 4;
+			gridoriginx = 0;
+			background = "";
+			backoffsetx = 0;
+			gridrotate = 0;
+			gridoriginy = 0;
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		overridemiddletexture = false;
+		
+		testprecommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "NANPC12";
+		defaultbottomtexture = "STARTAN2";
+		defaulttoptexture = "STARTAN2";
+		defaultwalltexture = "STARTAN2";
+		viewpositiony = 9581.591f;
+		overrideceilheight = false;
+		defaultceiltexture = "NANPC13";
+		viewscale = 0.09745017f;
+		
+		reloadresourcepostcommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		
+		reloadresourceprecommand
+		{
+			exitcodeiserror = true;
+			autocloseonsuccess = true;
+			stderriserror = true;
+		}
+		custombrightness = 196;
+		uselongtexturenames = false;
+		overridefloorheight = false;
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
+			}
+		}
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		scriptcompiler = "zdoom_acs.cfg";
+		customceilheight = 128;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 1;
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource1
+			{
+				type = 0;
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2\\jamp2monsters.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			resource2
+			{
+				type = 0;
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2\\jamp2stuff.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		customfloorheight = 0;
+		overridetoptexture = false;
+	}
 }
