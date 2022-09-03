@@ -6,9 +6,6 @@ gameinfo
 
 defaultmap
 {
-	ResetHealth
-	ResetInventory
-	ResetItems
 	ForgetState
 	
 	nojump
