@@ -18,7 +18,7 @@ interpic MAP02_IN
 boss-specials = MAP07_2
 
 [MAP03]
-levelname = Stay With Me
+levelname = Stay with Me
 creator = General Roasterock
 partime = 90
 disable-jump = true

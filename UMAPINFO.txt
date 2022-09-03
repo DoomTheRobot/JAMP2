@@ -1,0 +1,44 @@
+map MAP01
+{
+	levelname = "Sopa de Ma Caco"
+	label = clear
+	levelpic = "CWILV00"
+	next = "MAP02"
+	skytexture = "SKYTANG2"
+	music = "D_RUNNIN"
+	partime = 270
+	exitpic = "MAP01_IN"
+}
+
+map MAP02
+{
+	levelname = "Armadeira"
+	label = clear
+	levelpic = "CWILV01"
+	next = "MAP03"
+	skytexture = "SKY1"
+	music = "D_STALKS"
+	partime = 2180
+	bossaction = Arachnotron, 176, 667
+	exitpic = "MAP02_IN"
+}
+
+map MAP03
+{
+	levelname = "Stay with Me"
+	label = clear
+	levelpic = "CWILV02"
+	endcast = true
+	skytexture = "SKYND03A"
+	music = "D_COUNTD"
+	partime = 90
+	exitpic = "MAP03_IN"
+	intertext = "This is as far as you can get",
+				"in this sourceport.",
+				"",
+				"Please play this WAD in the",
+				"latest version of GZDoom",
+				"to get the full JAMP2 experience!",
+				"",
+				"Thanks for playing!"
+}

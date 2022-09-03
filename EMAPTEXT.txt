@@ -1,1 +1,7 @@
-This a test intermission screen for Eternity
+This is as far as you can get in Eternity.
+
+Please play this WAD in the
+latest version of GZDoom
+to get the full JAMP2 experience!
+
+Thanks for playing!

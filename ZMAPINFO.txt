@@ -24,6 +24,7 @@ map TITLEMAP lookup "JAMP2_TITLEMAP"
 {
 	author = "DoomTheRobot & NaN"
 	sky1 = "BIGSKY", 0.0
+	titlepatch = "CWILVHU"
 	next = "MAP01"
 	levelnum = 0
 	
@@ -36,6 +37,7 @@ map MAP01 lookup "JAMP2_MAP_LAZORINC"
 {
 	author = "Lazorinc"
 	sky1 = "SKYTANG2", 0.0
+	titlepatch = "CWILV00"
 	music = "D_RUNNIN"
 	par = 270
 	ExitPic = "MAP01_IN"
@@ -45,6 +47,7 @@ map MAP02 lookup "JAMP2_MAP_AYELOO"
 {
 	author = "Ayeloo"
 	sky1 = "SKY1", 0.0
+	titlepatch = "CWILV01"
 	music = "D_STALKS"
 	par = 2180
 	Map07Special
@@ -55,6 +58,7 @@ map MAP03 lookup "JAMP2_MAP_ROAST"
 {
 	author = "General Roasterock"
 	sky1 = "SKYND03A", 0.0
+	titlepatch = "CWILV02"
 	music = "D_COUNTD"
 	par = 90
 	ExitPic = "MAP03_IN"
@@ -64,6 +68,7 @@ map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
 {
 	author = "DoomTheRobot"
 	sky1 = "VAC_SKY", 0.1
+	titlepatch = "CWILV03"
 	music = "D_BETWEE"
 	par = 90
 	ExitPic = "MAP04_IN"
@@ -73,6 +78,7 @@ map MAP05 lookup "JAMP2_MAP_AGENTMANOVIC"
 {
 	author = "Agent Manovic"
 	sky1 = "SKY1", 0.0
+	titlepatch = "CWILV04"
 	music = "D_DOOM"
 	par = 900
 	ExitPic = "MAP05_IN"
@@ -82,6 +88,7 @@ map MAP06 lookup "JAMP2_MAP_OIAHUSK"
 {
 	author = "OiaHusk"
 	sky1 = "SKY1", 0.0
+	titlepatch = "CWILV05"
 	music = "D_THEDA"
 	par = 1020
 	ExitPic = "MAP06_IN"
@@ -91,6 +98,7 @@ map MAP07 lookup "JAMP2_MAP_NAN"
 	author = "NaN"
 	lightmode = 16
 	sky1 = "BIGSKY", 0.0
+	titlepatch = "CWILV06"
 	music = "D_SHAWN"
 	par = 2400
 	ExitPic = "MAP07_IN"

@@ -1,0 +1,35 @@
+MAP MAP01 "Sopa de Ma Caco"
+author "Lazorinc"
+music D_RUNNIN
+musiccomposer "jmickle"
+musictitle "Take these pills and be who you are"
+next MAP02
+nojump
+par 270
+pistolstart
+sky1 SKYTANG2 0.0
+titlepatch "CWILV00"
+
+MAP MAP02 "Armadeira"
+author "Ayeloo"
+music D_STALKS
+musiccomposer "Eradropp"
+musictitle "MAP05 of Avactor"
+next MAP03
+nojump
+par 2180
+pistolstart
+sky1 SKY1 0.0
+titlepatch "CWILV01"
+
+MAP MAP03 "Stay with Me"
+author "General Roasterock"
+music D_COUNTD
+musiccomposer "Zachary Stephens"
+musictitle "it's_cold_up_here"
+next ENDGAMEC
+nojump
+par 90
+pistolstart
+sky1 SKYND03A 0.0
+titlepatch "CWILV02"
