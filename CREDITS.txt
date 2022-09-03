@@ -9,6 +9,7 @@ NaN
 Graphics:
 
 TITLEPIC, CREDIT, INTERPIC					Ayeloo
+M_DOOM								NaN
 --------------------------------------------------------------------------------------------
 Textures:
 
@@ -27,7 +28,7 @@ D_COUNTD : it's_cold_up_here									Zachary Stephens
 D_BETWEE : Blossom Shower - Mamorukun Curse						Sequenced by AlkioneD70
 D_DOOM	 :
 D_THEDA	 : Sirena Beach - Hotel Delfino - Super Mario Sunshine	???
-D_SHAWN	 :
+D_SHAWN	 : Found a Pegleg Instead of a Treasure Chest - Original Song			NaN 
 --------------------------------------------------------------------------------------------
 Maps:
 
