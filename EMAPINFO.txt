@@ -26,3 +26,4 @@ skyname = SKYND03A
 interpic = MAP03_IN
 endofgame = true
 intertext = EMAPTEXT
+inter-backdrop = FWATER1

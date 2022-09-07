@@ -34,3 +34,33 @@ ACTOR CeilingStalagmite : Stalagmite 92
 +SPAWNCEILING
 +NOGRAVITY
 }
+
+ACTOR MAPText 93
+{
+scale 0.65
++NOGRAVITY
+States
+{
+  Spawn:
+	TEXT A -1
+	Stop
+  MAP02:
+	TEXT B -1
+	Stop
+  MAP03:
+	TEXT C -1
+	Stop
+  MAP04:
+	TEXT D -1
+	Stop
+  MAP05:
+	TEXT E -1
+	Stop
+  MAP06:
+	TEXT F -1
+	Stop
+  MAP07:
+	TEXT G -1
+	Stop
+}
+}

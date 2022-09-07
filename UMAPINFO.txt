@@ -33,6 +33,7 @@ map MAP03
 	music = "D_COUNTD"
 	partime = 90
 	exitpic = "MAP03_IN"
+	interbackdrop = "FWATER1"
 	intertext = "This is as far as you can get",
 				"in this sourceport.",
 				"",

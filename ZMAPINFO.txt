@@ -22,7 +22,6 @@ episode TITLEMAP
 
 map TITLEMAP lookup "JAMP2_TITLEMAP"
 {
-	author = "DoomTheRobot & NaN"
 	sky1 = "BIGSKY", 0.0
 	titlepatch = "CWILVHU"
 	next = "MAP01"
@@ -35,7 +34,6 @@ map TITLEMAP lookup "JAMP2_TITLEMAP"
 
 map MAP01 lookup "JAMP2_MAP_LAZORINC"
 {
-	author = "Lazorinc"
 	sky1 = "SKYTANG2", 0.0
 	titlepatch = "CWILV00"
 	music = "D_RUNNIN"
@@ -45,7 +43,6 @@ map MAP01 lookup "JAMP2_MAP_LAZORINC"
 
 map MAP02 lookup "JAMP2_MAP_AYELOO"
 {
-	author = "Ayeloo"
 	sky1 = "SKY1", 0.0
 	titlepatch = "CWILV01"
 	music = "D_STALKS"
@@ -56,7 +53,6 @@ map MAP02 lookup "JAMP2_MAP_AYELOO"
 
 map MAP03 lookup "JAMP2_MAP_ROAST"
 {
-	author = "General Roasterock"
 	sky1 = "SKYND03A", 0.0
 	titlepatch = "CWILV02"
 	music = "D_COUNTD"
@@ -66,7 +62,6 @@ map MAP03 lookup "JAMP2_MAP_ROAST"
 
 map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
 {
-	author = "DoomTheRobot"
 	sky1 = "VAC_SKY", 0.1
 	titlepatch = "CWILV03"
 	music = "D_BETWEE"
@@ -76,7 +71,6 @@ map MAP04 lookup "JAMP2_MAP_DOOMTHEROBOT"
 
 map MAP05 lookup "JAMP2_MAP_AGENTMANOVIC"
 {
-	author = "Agent Manovic"
 	sky1 = "SKY1", 0.0
 	titlepatch = "CWILV04"
 	music = "D_DOOM"
@@ -86,7 +80,6 @@ map MAP05 lookup "JAMP2_MAP_AGENTMANOVIC"
 
 map MAP06 lookup "JAMP2_MAP_OIAHUSK"
 {
-	author = "OiaHusk"
 	sky1 = "SKY1", 0.0
 	titlepatch = "CWILV05"
 	music = "D_THEDA"
@@ -95,7 +88,6 @@ map MAP06 lookup "JAMP2_MAP_OIAHUSK"
 }
 map MAP07 lookup "JAMP2_MAP_NAN"
 {
-	author = "NaN"
 	lightmode = 16
 	sky1 = "BIGSKY", 0.0
 	titlepatch = "CWILV06"
