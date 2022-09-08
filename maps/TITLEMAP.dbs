@@ -26,8 +26,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 406.692f;
-		viewpositionx = -1070.606f;
+		viewpositiony = 1298.239f;
+		viewpositionx = 3194.038f;
 		
 		testprecommand
 		{
@@ -51,7 +51,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.1060421f;
+		viewscale = 0.2329803f;
 		
 		reloadresourceprecommand
 		{
@@ -109,17 +109,17 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 1;
+						numberofsectors = 9;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
 						stairtype = 0;
-						sectordepth = 32;
+						sectordepth = 6;
 						spacing = 0;
 						frontside = false;
-						singlesectors = true;
+						singlesectors = false;
 						distinctsectors = false;
 						singledirection = false;
-						distinctbaseheights = true;
+						distinctbaseheights = false;
 						flipping = 0;
 						numberofcontrolpoints = 1;
 						applyfloormod = true;
@@ -171,8 +171,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 1109;
-				firstvisibleline = 35;
+				caretposition = 5846;
+				firstvisibleline = 169;
 				activetab = true;
 			}
 		}
