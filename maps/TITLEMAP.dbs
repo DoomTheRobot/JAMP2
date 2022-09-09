@@ -20,14 +20,14 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2";
+				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 1298.239f;
-		viewpositionx = 3194.038f;
+		viewpositiony = 322.7885f;
+		viewpositionx = -4397.082f;
 		
 		testprecommand
 		{
@@ -47,11 +47,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 64;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.2329803f;
+		viewscale = 0.1060444f;
 		
 		reloadresourceprecommand
 		{
@@ -171,8 +171,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 5846;
-				firstvisibleline = 169;
+				caretposition = 3312;
+				firstvisibleline = 120;
 				activetab = true;
 			}
 		}
