@@ -346,8 +346,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 9826.263f;
-		viewpositionx = -4593.601f;
+		viewpositiony = 402.7115f;
+		viewpositionx = -2151.252f;
 		
 		testprecommand
 		{
@@ -367,11 +367,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 4;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.5118566f;
+		viewscale = 0.5118521f;
 		
 		reloadresourceprecommand
 		{
@@ -491,10 +491,10 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 582;
-				firstvisibleline = 51;
+				caretposition = 5353;
+				firstvisibleline = 91;
 				activetab = true;
-				foldlevels = "1024:3,16,23,32,44,51,79,87,105,139,147,157,179,189,195,200,237,243,257,271,276";
+				foldlevels = "1024:3,16,23,32,44,51,79,87,105,139,147,157,179,189,195,200,237,243,257,271,276,282";
 			}
 		}
 	}
