@@ -200,15 +200,15 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -1440.441f;
-		viewpositiony = 2679.681f;
-		viewscale = 0.5118532f;
+		viewpositionx = 300.9526f;
+		viewpositiony = 973.4835f;
+		viewscale = 5.021847f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
 		{
-			background = "C:\\Users\\Owner\\Desktop\\Videos\\Images\\Misc\\Labrynth.png";
-			backsource = 2;
+			background = "";
+			backsource = 0;
 			backoffsetx = 0;
 			backoffsety = 0;
 			backscalex = 100;
