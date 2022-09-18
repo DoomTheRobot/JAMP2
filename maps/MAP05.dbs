@@ -185,9 +185,9 @@ maps
 		}
 		defaultfloortexture = "HAIRBLU";
 		defaultceiltexture = "CEIL1_1";
-		defaulttoptexture = "STARTAN2";
-		defaultwalltexture = "STARTAN2";
-		defaultbottomtexture = "STARTAN2";
+		defaulttoptexture = "WOOD_N06";
+		defaultwalltexture = "WOOD_N06";
+		defaultbottomtexture = "WOOD_N06";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -200,9 +200,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 457.1065f;
-		viewpositiony = 1445.143f;
-		viewscale = 0.1658064f;
+		viewpositionx = -2729.875f;
+		viewpositiony = 3237.515f;
+		viewscale = 0.2155458f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -312,6 +312,15 @@ maps
 			sector
 			{
 				user_managed_3d_floor = 3;
+			}
+		}
+		
+		selectiongroups
+		{
+			
+			8
+			{
+				things = "614";
 			}
 		}
 		
