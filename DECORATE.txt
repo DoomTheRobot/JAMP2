@@ -28,12 +28,192 @@ states
   }
 }
 
+ACTOR doomguydance1 501
+{
+radius 16
+height 64
+scale 0.95
++SOLID
+states
+  {
+  Spawn:
+    DGDC ABCDEFGH 4
+    loop
+  }
+}
+
+ACTOR doomguydance2 502
+{
+radius 16
+height 64
+scale 0.95
+Translation "112:127=176:191" //red
++SOLID
+states
+  {
+  Spawn:
+    DGDC ABCDEFGH 4
+    loop
+  }
+}
+
+ACTOR doomguydance3 503
+{
+radius 16
+height 64
+scale 0.95
+Translation "112:127=192:207" // blue
++SOLID
+states
+  {
+  Spawn:
+    DGDC ABCDEFGH 4
+    loop
+  }
+}
+
+ACTOR doomguydance4 504
+{
+radius 16
+height 64
+scale 0.95
+Translation "112:127=96:111" // gray
++SOLID
+states
+  {
+  Spawn:
+    DGDC ABCDEFGH 4
+    loop
+  }
+}
+
+ACTOR doomguydance5 505
+{
+radius 16
+height 64
+scale 0.95
+Translation "112:127=16:31" // pink
++SOLID
+states
+  {
+  Spawn:
+    DGDC ABCDEFGH 4
+    loop
+  }
+}
+
+ACTOR doomguydance6 506
+{
+radius 16
+height 64
+scale 0.95
+Translation "112:127=64:79" // brown
++SOLID
+states
+  {
+  Spawn:
+    DGDC ABCDEFGH 4
+    loop
+  }
+}
+
+ACTOR doomguytwerk1 511
+{
+radius 16
+height 64
+scale 0.90
++SOLID
+states
+  {
+  Spawn:
+    DGTW ABCDEF 4
+    loop
+  }
+}
+
+ACTOR doomguytwerk2 512
+{
+radius 16
+height 64
+scale 0.90
+Translation "112:127=176:191" //red
++SOLID
+states
+  {
+  Spawn:
+    DGTW ABCDEF 4
+    loop
+  }
+}
+
+ACTOR doomguytwerk3 513
+{
+radius 16
+height 64
+scale 0.90
+Translation "112:127=192:207" // blue
++SOLID
+states
+  {
+  Spawn:
+    DGTW ABCDEF 4
+    loop
+  }
+}
+
+ACTOR doomguytwerk4 514
+{
+radius 16
+height 64
+scale 0.90
+Translation "112:127=96:111" // gray
++SOLID
+states
+  {
+  Spawn:
+    DGTW ABCDEF 4
+    loop
+  }
+}
+
+ACTOR doomguytwerk5 515
+{
+radius 16
+height 64
+scale 0.90
+Translation "112:127=16:31" // pink
++SOLID
+states
+  {
+  Spawn:
+    DGTW ABCDEF 4
+    loop
+  }
+}
+
+ACTOR doomguytwerk6 516
+{
+radius 16
+height 64
+scale 0.90
+Translation "112:127=64:79" // brown
++SOLID
+states
+  {
+  Spawn:
+    DGTW ABCDEF 4
+    loop
+  }
+}
+
 ACTOR CeilingStalagmite : Stalagmite 92
 {
 +YFLIP
 +SPAWNCEILING
 +NOGRAVITY
 }
+
+
 
 ACTOR MAPText 93
 {
