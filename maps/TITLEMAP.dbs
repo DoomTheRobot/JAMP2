@@ -7,7 +7,7 @@ maps
 	
 	TITLEMAP
 	{
-		defaultwalltexture = "STARTAN2";
+		defaultwalltexture = "HEAVY";
 		overridemiddletexture = false;
 		defaultceiltexture = "F_SKY1";
 		overrideceiltexture = false;
@@ -24,10 +24,21 @@ maps
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource1
+			{
+				type = 2;
+				location = "C:\\Users\\Ika\\Desktop\\Doom shits\\gzdoom-4-8-2-Windows-64bit\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
 			}
 		}
-		viewpositiony = -307.6741f;
-		viewpositionx = -1657.598f;
+		viewpositiony = 603.4716f;
+		viewpositionx = -163.4571f;
 		
 		testprecommand
 		{
@@ -47,11 +58,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 8;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.215542f;
+		viewscale = 0.05805209f;
 		
 		reloadresourceprecommand
 		{
@@ -59,9 +70,9 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaulttoptexture = "STARTAN2";
+		defaulttoptexture = "HEAVY";
 		overridebottomtexture = false;
-		defaultbottomtexture = "STARTAN2";
+		defaultbottomtexture = "HEAVY";
 		defaultfloortexture = "FLATNEW1";
 		overrideceilheight = false;
 		overridebrightness = false;
@@ -109,14 +120,14 @@ maps
 					prefab1
 					{
 						name = "[Previous]";
-						numberofsectors = 5;
+						numberofsectors = 1;
 						outervertexmultiplier = 1;
 						innervertexmultiplier = 1;
-						stairtype = 1;
-						sectordepth = 32;
+						stairtype = 0;
+						sectordepth = 24;
 						spacing = 0;
 						frontside = true;
-						singlesectors = false;
+						singlesectors = true;
 						distinctsectors = false;
 						singledirection = false;
 						distinctbaseheights = true;
@@ -136,7 +147,7 @@ maps
 						applymiddletexture = false;
 						middletexture = "-";
 						applylowertexture = true;
-						lowertexture = "-";
+						lowertexture = "WOOD_N03";
 						lowerunpegged = true;
 					}
 				}
@@ -171,8 +182,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 7968;
-				firstvisibleline = 278;
+				caretposition = 8397;
+				firstvisibleline = 281;
 				activetab = true;
 			}
 		}
