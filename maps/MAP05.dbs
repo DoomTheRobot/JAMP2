@@ -200,9 +200,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -2729.875f;
-		viewpositiony = 3237.515f;
-		viewscale = 0.2155458f;
+		viewpositionx = -1896.886f;
+		viewpositiony = 2127.81f;
+		viewscale = 0.2508635f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -213,7 +213,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 4;
+			gridsize = 1;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -306,21 +306,21 @@ maps
 			}
 		}
 		
-		fieldtypes
-		{
-			
-			sector
-			{
-				user_managed_3d_floor = 3;
-			}
-		}
-		
 		selectiongroups
 		{
 			
 			8
 			{
 				things = "614";
+			}
+		}
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
 			}
 		}
 		
