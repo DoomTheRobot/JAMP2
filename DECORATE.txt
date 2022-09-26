@@ -1,4 +1,4 @@
-// JAMP 2 DECORATE by DoomTheRobot
+// JAMP 2 DECORATE by DoomTheRobot & NaN
 
 ACTOR BrownSpike 90
 {
@@ -212,8 +212,6 @@ ACTOR CeilingStalagmite : Stalagmite 92
 +SPAWNCEILING
 +NOGRAVITY
 }
-
-
 
 ACTOR MAPText 93
 {

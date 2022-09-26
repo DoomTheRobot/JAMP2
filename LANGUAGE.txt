@@ -8,3 +8,23 @@ JAMP2_MAP_DOOMTHEROBOT = "Cozy Cove";				  // DoomTheRobot's Map
 JAMP2_MAP_AGENTMANOVIC = "não perca seu caminho";	  // Agent Manovic's Map
 JAMP2_MAP_OIAHUSK = "Sir Tevo";						  // OiaHusk's Map
 JAMP2_MAP_NAN = "Duo Eye Pogo";						  // NaN's Map
+
+// HUB Marine Talk
+
+TXT_RANDOM_BARKEEP_01 = "Can I get you a juice?";
+TXT_RANDOM_BARKEEP_02 = "I've Heard that someone dropped a Shellpack in a flooded cave... probably you need a rope to grab it";
+TXT_RANDOM_BARKEEP_03 = "Some moron forgot his backpack behind a waterfall, can you belive it?";
+TXT_RANDOM_BARKEEP_04 = "I've heard that a surfer drowned behind a rock cave";
+TXT_RANDOM_BARKEEP_05 = "Rumor says that the military lost a fucking arcade machine";
+TXT_RANDOM_BARKEEP_06 = "A repair guy keeps getting called to fix some bars in a dam";
+TXT_RANDOM_BARKEEP_07 = "A disgruntled marine told me that they keep a secret stash behind the reception";
+TXT_RANDOM_BARKEEP_08 = "A rumor says that there is an Malfunctioning AC machine button in the uac base, some say you need to press it more 100 times to work";
+TXT_RANDOM_BARKEEP_09 = "Don't jump back here.. Or else...";
+TXT_RANDOM_BARKEEP_10 = "I wonder if I am allowed to have more than 10 randomized strings.";
+
+TXT_MARINE_01 = "Don't do anything funny pal, and we won't have a problum";
+TXT_MARINE_02 = "Who the fuck shat in the urinal???";
+TXT_MARINE_03 = "No weapons pal.";
+TXT_MARINE_04 = "Some cool shirts on sale, want some?";
+TXT_MARINE_05 = "Enjoy some high tier songs.";
+TXT_MARINE_06 = "Move along.";

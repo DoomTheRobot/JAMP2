@@ -20,25 +20,15 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2";
+				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
-			
-			resource1
-			{
-				type = 2;
-				location = "C:\\Users\\Ika\\Desktop\\Doom shits\\gzdoom-4-8-2-Windows-64bit\\gzdoom.pk3";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 1;
-				requiredarchives = "gzdoom";
-			}
 		}
-		viewpositiony = 603.4716f;
-		viewpositionx = -163.4571f;
+		viewpositiony = 1448.183f;
+		viewpositionx = 2890.595f;
 		
 		testprecommand
 		{
@@ -62,7 +52,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.05805209f;
+		viewscale = 1.912706f;
 		
 		reloadresourceprecommand
 		{
@@ -173,6 +163,9 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 18;
+				caretposition = 475;
+				firstvisibleline = 39;
+				activetab = true;
 			}
 			
 			document1
@@ -182,9 +175,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 8397;
-				firstvisibleline = 281;
-				activetab = true;
+				caretposition = 6814;
+				firstvisibleline = 274;
 			}
 		}
 	}
