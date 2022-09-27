@@ -20,15 +20,25 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2";
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
+			
+			resource1
+			{
+				type = 2;
+				location = "C:\\Users\\Ika\\Desktop\\Doom shits\\gzdoom-4-8-2-Windows-64bit\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
+			}
 		}
-		viewpositiony = 1448.183f;
-		viewpositionx = 2890.595f;
+		viewpositiony = 242.825f;
+		viewpositionx = 937.0229f;
 		
 		testprecommand
 		{
@@ -48,11 +58,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 1.912706f;
+		viewscale = 0.03736744f;
 		
 		reloadresourceprecommand
 		{
@@ -106,40 +116,6 @@ maps
 				
 				prefabs
 				{
-					
-					prefab1
-					{
-						name = "[Previous]";
-						numberofsectors = 1;
-						outervertexmultiplier = 1;
-						innervertexmultiplier = 1;
-						stairtype = 0;
-						sectordepth = 24;
-						spacing = 0;
-						frontside = true;
-						singlesectors = true;
-						distinctsectors = false;
-						singledirection = false;
-						distinctbaseheights = true;
-						flipping = 0;
-						numberofcontrolpoints = 1;
-						applyfloormod = true;
-						floormod = 0;
-						applyceilingmod = true;
-						ceilingmod = 0;
-						applyfloortexture = false;
-						floortexture = "";
-						applyceilingtexture = false;
-						ceilingtexture = "";
-						applyuppertexture = true;
-						uppertexture = "-";
-						upperunpegged = true;
-						applymiddletexture = false;
-						middletexture = "-";
-						applylowertexture = true;
-						lowertexture = "WOOD_N03";
-						lowerunpegged = true;
-					}
 				}
 			}
 		}
@@ -163,8 +139,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 18;
-				caretposition = 475;
-				firstvisibleline = 39;
+				caretposition = 854;
+				firstvisibleline = 60;
 				activetab = true;
 			}
 			

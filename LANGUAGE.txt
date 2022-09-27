@@ -11,20 +11,32 @@ JAMP2_MAP_NAN = "Duo Eye Pogo";						  // NaN's Map
 
 // HUB Marine Talk
 
-TXT_RANDOM_BARKEEP_01 = "Can I get you a juice?";
-TXT_RANDOM_BARKEEP_02 = "I've Heard that someone dropped a Shellpack in a flooded cave... probably you need a rope to grab it";
-TXT_RANDOM_BARKEEP_03 = "Some moron forgot his backpack behind a waterfall, can you belive it?";
-TXT_RANDOM_BARKEEP_04 = "I've heard that a surfer drowned behind a rock cave";
-TXT_RANDOM_BARKEEP_05 = "Rumor says that the military lost a fucking arcade machine";
-TXT_RANDOM_BARKEEP_06 = "A repair guy keeps getting called to fix some bars in a dam";
-TXT_RANDOM_BARKEEP_07 = "A disgruntled marine told me that they keep a secret stash behind the reception";
-TXT_RANDOM_BARKEEP_08 = "A rumor says that there is an Malfunctioning AC machine button in the uac base, some say you need to press it more 100 times to work";
-TXT_RANDOM_BARKEEP_09 = "Don't jump back here.. Or else...";
-TXT_RANDOM_BARKEEP_10 = "I wonder if I am allowed to have more than 10 randomized strings.";
+TXT_RANDOM_BARKEEPB_01 = "\cvCan I get you a juice?";
+TXT_RANDOM_BARKEEPB_02 = "\cvDon't jump back here.. Or else...";
+TXT_RANDOM_BARKEEPB_03 = "\cvHow can i help you today?";
+TXT_RANDOM_BARKEEPB_04 = "\cvCan I get you a juice?";
+TXT_RANDOM_BARKEEPB_05 = "\cvDon't jump back here.. Or else...";
+TXT_RANDOM_BARKEEPB_06 = "\cvHow can i help you today?";
+TXT_RANDOM_BARKEEPB_07 = "\cvCan I get you a juice?";
+TXT_RANDOM_BARKEEPB_08 = "\cvDon't jump back here.. Or else...";
+TXT_RANDOM_BARKEEPB_09 = "\cvHow can i help you today?";
+TXT_RANDOM_BARKEEPB_10 = "\cvCan I get you a juice?";
 
-TXT_MARINE_01 = "Don't do anything funny pal, and we won't have a problum";
-TXT_MARINE_02 = "Who the fuck shat in the urinal???";
-TXT_MARINE_03 = "No weapons pal.";
-TXT_MARINE_04 = "Some cool shirts on sale, want some?";
-TXT_MARINE_05 = "Enjoy some high tier songs.";
-TXT_MARINE_06 = "Move along.";
+TXT_RANDOM_BARKEEP7_01 = "\cvI've Heard that someone dropped a Shellpack in a flooded cave...\nprobably you need a rope to grab it";
+TXT_RANDOM_BARKEEP7_02 = "\cvSome moron forgot his backpack behind a waterfall.\ncan you belive it?";
+TXT_RANDOM_BARKEEP7_03 = "\cvI've heard that a surfer drowned behind a rock cave";
+TXT_RANDOM_BARKEEP7_04 = "\cvRumor says that the military lost a fucking arcade machine";
+TXT_RANDOM_BARKEEP7_05 = "\cvA repair guy keeps getting called to fix some bars in a dam";
+TXT_RANDOM_BARKEEP7_06 = "\cvA disgruntled marine told me that they\nkeep a secret stash behind the reception";
+TXT_RANDOM_BARKEEP7_07 = "\cvA rumor says that there is an Malfunctioning\nAC machine button in the uac base.\nsome say you need to press it more 100 times to work";
+TXT_RANDOM_BARKEEP7_08 = "\cvRumor says that the military lost a fucking arcade machine";
+TXT_RANDOM_BARKEEP7_09 = "\cvA repair guy keeps getting called to fix some bars in a dam";
+TXT_RANDOM_BARKEEP7_10 = "\cvA disgruntled marine told me that they\nkeep a secret stash behind the reception";
+
+TXT_MARINE_01 = "\cvDon't do anything funny pal, and we won't have a problum";
+TXT_MARINE_02 = "\cvWho the fuck shat in the urinal???";
+TXT_MARINE_03 = "\cvNo weapons pal.";
+TXT_MARINE_04 = "\cvSome cool shirts on sale, want some?";
+TXT_MARINE_05 = "\cvEnjoy some high tier songs.";
+TXT_MARINE_06 = "\cvMove along.";
+TXT_MARINE_07 = "\cvdid you know that in The Tale of the Eye and the Rock, \nWhen the fall of Tombra The Curator of the Eleven Tomes of Siechtaf,\nWas described, The Author Truly meant...";
