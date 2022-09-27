@@ -35,7 +35,7 @@ TXT_RANDOM_BARKEEP7_10 = "\cvA disgruntled marine told me that they\nkeep a secr
 
 TXT_MARINE_01 = "\cvDon't do anything funny pal, and we won't have a problum";
 TXT_MARINE_02 = "\cvWho the fuck shat in the urinal???";
-TXT_MARINE_03 = "\cvNo weapons pal.";
+TXT_MARINE_03 = "\cvThis doesn't really work it's just for show";
 TXT_MARINE_04 = "\cvSome cool shirts on sale, want some?";
 TXT_MARINE_05 = "\cvEnjoy some high tier songs.";
 TXT_MARINE_06 = "\cvMove along.";
