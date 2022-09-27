@@ -346,8 +346,8 @@ maps
 		resources
 		{
 		}
-		viewpositiony = 25774.68f;
-		viewpositionx = 4893.686f;
+		viewpositiony = 9189.275f;
+		viewpositionx = -4396.85f;
 		
 		testprecommand
 		{
@@ -371,7 +371,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.2329777f;
+		viewscale = 0.02856094f;
 		
 		reloadresourceprecommand
 		{
@@ -491,10 +491,10 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 9292;
-				firstvisibleline = 148;
+				caretposition = 761;
+				firstvisibleline = 9;
 				activetab = true;
-				foldlevels = "1024:3,16,23,32,44,51,64,79,87,104,136,143,152,171,180,186,191,225,231,244,258,263,268,273,278,283,288,293,298,303,308,313,318,325,332,337,342,347,352,357,362,367,372,385,392,397,402,409,431,436,443,448,453,458,463,468,473,478,483";
+				foldlevels = "1024:3,16,23,49,56,69,84,92,109,141,148,157,176,185,191,196,230,236,249,263,268,273,278,283,288,293,298,303,308,313,318,323,330,337,342,347,352,357,362,367,372,377,390,397,402,407,414,436,441,448,453,458,463,468,473,478,483,488";
 			}
 		}
 	}
