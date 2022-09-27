@@ -22,6 +22,17 @@ TXT_RANDOM_BARKEEPB_08 = "\cvDon't jump back here.. Or else...";
 TXT_RANDOM_BARKEEPB_09 = "\cvHow can i help you today?";
 TXT_RANDOM_BARKEEPB_10 = "\cvCan I get you a juice?";
 
+TXT_RANDOM_BARKEEP6_01 = "\cvThe tunnel that you enter through often tends to change\nthe perception of those who explore it";
+TXT_RANDOM_BARKEEP6_02 = "\cvI heard that some junky left his stuff behind the temple";
+TXT_RANDOM_BARKEEP6_03 = "\cvPast the floor that hurts also contains some loot that lurks";
+TXT_RANDOM_BARKEEP6_04 = "\cvBehind the Cacos lie some goodies";
+TXT_RANDOM_BARKEEP6_05 = "\cvThe most skilled marines can use momentum\nto get to places that are usually unreachable, perhaps\nthe temple can aid in such a feat?";
+TXT_RANDOM_BARKEEP6_06 = "\cvThe tunnel that you enter through often tends to change\nthe perception of those who explore it";
+TXT_RANDOM_BARKEEP6_07 = "\cvI heard that some junky left his stuff behind the temple";
+TXT_RANDOM_BARKEEP6_08 = "\cvPast the floor that hurts also contains some loot that lurks";
+TXT_RANDOM_BARKEEP6_09 = "\cvBehind the Cacos lie some goodies";
+TXT_RANDOM_BARKEEP6_10 = "\cvThe most skilled marines can use momentum\nto get to places that are usually unreachable, perhaps\nthe temple can aid in such a feat?";
+
 TXT_RANDOM_BARKEEP7_01 = "\cvI've Heard that someone dropped a Shellpack in a flooded cave...\nprobably you need a rope to grab it";
 TXT_RANDOM_BARKEEP7_02 = "\cvSome moron forgot his backpack behind a waterfall.\ncan you belive it?";
 TXT_RANDOM_BARKEEP7_03 = "\cvI've heard that a surfer drowned behind a rock cave";
