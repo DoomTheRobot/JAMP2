@@ -22,6 +22,50 @@ TXT_RANDOM_BARKEEPB_08 = "\cvDon't jump back here.. Or else...";
 TXT_RANDOM_BARKEEPB_09 = "\cvHow can i help you today?";
 TXT_RANDOM_BARKEEPB_10 = "\cvCan I get you a juice?";
 
+TXT_RANDOM_BARKEEP2_01 = "\cvTree lines are deceptive, especially the lighter ones";
+TXT_RANDOM_BARKEEP2_02 = "\cvTree lines are deceptive, especially the lighter ones";
+TXT_RANDOM_BARKEEP2_03 = "\cvTree lines are deceptive, especially the lighter ones";
+TXT_RANDOM_BARKEEP2_04 = "\cvSometimes blocking bars aren't mere bars";
+TXT_RANDOM_BARKEEP2_05 = "\cvSometimes blocking bars aren't mere bars";
+TXT_RANDOM_BARKEEP2_06 = "\cvSometimes blocking bars aren't mere bars";
+TXT_RANDOM_BARKEEP2_07 = "\cvSometimes blocking bars aren't mere bars";
+TXT_RANDOM_BARKEEP2_08 = "\cvThose who climb and explore the pyramid are rewarded";
+TXT_RANDOM_BARKEEP2_09 = "\cvThose who climb and explore the pyramid are rewarded";
+TXT_RANDOM_BARKEEP2_10 = "\cvThose who climb and explore the pyramid are rewarded";
+
+TXT_RANDOM_BARKEEP3_01 = "\cvThe crimson flames are a facade and hide an empowering item";
+TXT_RANDOM_BARKEEP3_02 = "\cvSome say one can fit through a small opening near a blood fall...\nbut who knows";
+TXT_RANDOM_BARKEEP3_03 = "\cvLegends speak about an Ultimate Vial\nthat has been collecting hydrating juices for 160 years";
+TXT_RANDOM_BARKEEP3_04 = "\cvThose who are fast enough\nand perceptive enough\nthrough the locked door shall be rewarded";
+TXT_RANDOM_BARKEEP3_05 = "\cvThose who are fast enough\nand perceptive enough\nthrough the locked door shall be rewarded";
+TXT_RANDOM_BARKEEP3_06 = "\cvFor those who dare to tight rope\nshall be healed to the fullest";
+TXT_RANDOM_BARKEEP3_07 = "\cvFor those who dare to tight rope\nshall be healed to the fullest";
+TXT_RANDOM_BARKEEP3_08 = "\cvThe lift hides the backstage passage for the soulsphere interview";
+TXT_RANDOM_BARKEEP3_09 = "\cvA mysterious sphere can be seen on top of a ledge";
+TXT_RANDOM_BARKEEP3_10 = "\cvA mysterious sphere can be seen on top of a ledge";
+
+TXT_RANDOM_BARKEEP4_01 = "\cvI forgot my azure shirt behind a rock face, if you find it, it's yours";
+TXT_RANDOM_BARKEEP4_02 = "\cvI forgot my azure shirt behind a rock face, if you find it, it's yours";
+TXT_RANDOM_BARKEEP4_03 = "\cvIn a place covered by searing hot liquid lies a mystical orb";
+TXT_RANDOM_BARKEEP4_04 = "\cvIn a place covered by searing hot liquid lies a mystical orb";
+TXT_RANDOM_BARKEEP4_05 = "\cvSome clever junkie boasts about creating\nan elaborate ranged contraption to hide his stash";
+TXT_RANDOM_BARKEEP4_06 = "\cvSome clever junkie boasts about creating\nan elaborate ranged contraption to hide his stash";
+TXT_RANDOM_BARKEEP4_07 = "\cvCampers hid some goodies at an up high natural alcove";
+TXT_RANDOM_BARKEEP4_08 = "\cvCampers hid some goodies at an up high natural alcove";
+TXT_RANDOM_BARKEEP4_09 = "\cvYou might find something interesting\nby following the woods at the top of a cliff";
+TXT_RANDOM_BARKEEP4_10 = "\cvYou might find something interesting\nby following the woods at the top of a cliff";
+
+TXT_RANDOM_BARKEEP5_01 = "\cvSome say that the duo eye pogo's lighthouse can be seen from afar";
+TXT_RANDOM_BARKEEP5_02 = "\cvAn explorer claims that he once fell through\na crack in the ceilling, and gazed upon several treasures.too scared he left.\nhe is adamant that there is a way to get to it from the maze";
+TXT_RANDOM_BARKEEP5_03 = "\cvSome hoarder stashed a bunch of goodies behind a console";
+TXT_RANDOM_BARKEEP5_04 = "\cvIt came to my knowledge that someone stashed\nsomething useful behind a locked vent";
+TXT_RANDOM_BARKEEP5_05 = "\cvIt came to my knowledge that someone stashed\nsomething useful behind a locked vent";
+TXT_RANDOM_BARKEEP5_06 = "\cvThe legend goes when the two rotund guardians fall, the warrior will amass it all";
+TXT_RANDOM_BARKEEP5_07 = "\cvSome hoarder stashed a bunch of goodies behind a console";
+TXT_RANDOM_BARKEEP5_08 = "\cvSome hoarder stashed a bunch of goodies behind a console";
+TXT_RANDOM_BARKEEP5_09 = "\cvThe legend goes when the two rotund guardians fall, the warrior will amass it all";
+TXT_RANDOM_BARKEEP5_10 = "\cvAn explorer claims that he once fell through\na crack in the ceilling, and gazed upon several treasures.too scared he left.\nhe is adamant that there is a way to get to it from the maze";
+
 TXT_RANDOM_BARKEEP6_01 = "\cvThe tunnel that you enter through often tends to change\nthe perception of those who explore it";
 TXT_RANDOM_BARKEEP6_02 = "\cvI heard that some junky left his stuff behind the temple";
 TXT_RANDOM_BARKEEP6_03 = "\cvPast the floor that hurts also contains some loot that lurks";
