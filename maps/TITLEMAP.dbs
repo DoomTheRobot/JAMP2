@@ -20,15 +20,15 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2";
+				location = "C:\\Users\\Ika\\Documents\\GitHub\\JAMP2";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 1407.892f;
-		viewpositionx = -400.1909f;
+		viewpositiony = 2051.667f;
+		viewpositionx = -1014.022f;
 		
 		testprecommand
 		{
@@ -48,11 +48,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 128;
+			gridsize = 8;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.1378583f;
+		viewscale = 0.06274797f;
 		
 		reloadresourceprecommand
 		{
