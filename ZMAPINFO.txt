@@ -2,6 +2,8 @@ gameinfo
 {
 	drawreadthis = true
 	CorrectPrintBold = true
+	Border = 1, 0, "JAMP_TR", "JAMP_T", "JAMP_TL", "JAMP_R", "JAMP_L", "JAMP_BR", "JAMP_B", "JAMP_BL"
+	BorderFlat = "SAND"
 }
 
 defaultmap

@@ -242,3 +242,44 @@ States
 	Stop
 }
 }
+
+ACTOR GenericHubMarine 95
+{
+Radius 16
+Height 56
++SOLID
+States
+{
+  Spawn:
+	TNT1 A 0
+	TNT1 A 0 A_Jump (20, "Darkblue")
+	TNT1 A 0 A_Jump (20, "Darkgreen")
+	TNT1 A 0 A_Jump (50, "Yellow")
+	TNT1 A 0 A_Jump (50, "Gray")
+	TNT1 A 0 A_Jump (100, "Red")
+	TNT1 A 0 A_Jump (100, "Blue")
+	TNT1 A 0 A_Jump (256, "Idle")
+	loop
+  Darkblue: 
+	TNT1 A 0 A_SetTranslation("darkblu")
+	goto Idle
+  Darkgreen: 
+	TNT1 A 0 A_SetTranslation("darkgr")
+	goto Idle
+  Yellow: 
+	TNT1 A 0 A_SetTranslation("yellu")
+	goto Idle
+  Gray: 
+	TNT1 A 0 A_SetTranslation("gray")
+	goto Idle
+  Red: 
+	TNT1 A 0 A_SetTranslation("red")
+	goto Idle
+  Blue: 
+	TNT1 A 0 A_SetTranslation("blue")
+	goto Idle
+  Idle:
+	PLAY A 1
+	Loop
+}
+}
