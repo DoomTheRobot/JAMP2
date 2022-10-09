@@ -182,12 +182,22 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 1;
+				location = "C:\\Users\\doomg\\OneDrive\\Desktop\\Projects\\JAMP2 Dev\\JAMP2";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
 		}
-		defaultfloortexture = "WOOD10";
+		defaultfloortexture = "HAIRBLU";
 		defaultceiltexture = "CEIL1_1";
-		defaulttoptexture = "BRICK7";
-		defaultwalltexture = "BRICK7";
-		defaultbottomtexture = "BRICK7";
+		defaulttoptexture = "WOOD_N06";
+		defaultwalltexture = "WOOD_N06";
+		defaultbottomtexture = "WOOD_N06";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -200,9 +210,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -541.0854f;
-		viewpositiony = 3347.285f;
-		viewscale = 0.2508625f;
+		viewpositionx = -2475.772f;
+		viewpositiony = 2929.025f;
+		viewscale = 1.808567f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -213,7 +223,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 1;
+			gridsize = 2;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;

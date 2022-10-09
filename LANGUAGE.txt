@@ -16,14 +16,32 @@ TXT_NAME2 = "Ingrid";
 TXT_NAME3 = "Harold";
 TXT_NAME4 = "Pappa Fred";
 TXT_NAME5 = "Sir Fondler";
+TXT_NAME6 = "Jack";
+TXT_NAME7 = "\cfAll Knowing David";
+TXT_NAME8 = "\ctMystic Bob";
 
-// HUB Marine Goodbyes
+// HUB Marine Goodbyes & Text
 
 TXT_GOODBYE1 = "\cvShit, can't wait for that!";
-TXT_GOODBYE2 = "\cvWhy you mean... Like, what the hell.";
+TXT_GOODBYE2 = "\cvAlright.";
 TXT_GOODBYE3 = "\cvMaybe next time.";
 TXT_GOODBYE4 = "\cvSure...";
 TXT_GOODBYE5 = "\cvWasn't Me!";
+TXT_GOODBYE6 = "\cvOK.";
+TXT_GOODBYE7 = "\cvThanks.";
+TXT_GOODBYE8 = "\cvI see. Bye!";
+TXT_GOODBYE9 = "\cvUh... Sure...";
+
+TXT_TEXT1 = "\cvDuo Eye Pogo rumors";
+TXT_TEXT2 = "\cvSir Tevo rumors";
+TXT_TEXT3 = "\cvnão perca seu caminho rumors";
+TXT_TEXT4 = "\cvCozy Cove rumors";
+TXT_TEXT5 = "\cvArmadeira rumors";
+TXT_TEXT6 = "\cvSopa De Ma Caco rumors";
+TXT_TEXT7 = "\cvStay With Me rumors";
+
+TXT_TEXT8 = "\cvGot it. Do you know more?";
+TXT_TEXT9 = "\cvThanks. I want to know something different now.";
 
 // HUB Marine Talk
 
@@ -111,3 +129,5 @@ TXT_MARINE_04 = "\cvSome cool shirts on sale, want some?";
 TXT_MARINE_05 = "\cvEnjoy some high tier songs.";
 TXT_MARINE_06 = "\cvMove along.";
 TXT_MARINE_07 = "\cvDid you know that in The Tale of the Eye and the Rock,\nwhen the fall of Tombra The Curator of the Eleven Tomes of Siechtaf,\nwas described, the author truly meant...";
+
+TXT_STAY = "\cvHmm... Er... Maybe search for a soulsphere?";
