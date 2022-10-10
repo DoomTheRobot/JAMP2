@@ -2,18 +2,18 @@ OptionMenu "ReadThisMenu"
 {
 	Title "$MNU_INFO"
 	statictext ""
-	statictext "This option will allow you to play each level in order", 1
-	statictext "instead of having to go through the HUB map.", 1
+	statictext "$JAMP2_MENU1", 1
+	statictext "$JAMP2_MENU2", 1
 	statictext ""
+	statictext "$JAMP2_MENU3", 1
+	statictext "$JAMP2_MENU4", 1
 	statictext ""
-	statictext "\"Boom Maps Only\" is just MAP01 to MAP03", 1
-	statictext ""
-	option "Level Order", "JAMP2_MissionType", "JAMP2_3option"
+	option "$JAMP2_MENU5", "JAMP2_MissionType", "JAMP2_3option"
 }
 
 OptionValue "JAMP2_3option"
 {
-    0, "No (Default)"
-    1, "Boom Maps Only"
-	2, "All Maps In Order"
+    0, "$JAMP2_MENU6"
+    1, "$JAMP2_MENU7"
+	2, "$JAMP2_MENU8"
 }

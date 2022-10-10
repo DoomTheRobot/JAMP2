@@ -27,7 +27,7 @@ D_RUNNIN : Take these pills and be who you are					jmickle
 D_STALKS : MAP05 of Avactor										Eradropp
 D_COUNTD : it's_cold_up_here									Zachary Stephens
 D_BETWEE : Blossom Shower - Mamorukun Curse						Sequenced by AlkioneD70
-D_DOOM	 :
+D_DOOM	 : Holy Orders - Be Just or be Dead						Sequenced by BloodyJedah
 D_THEDA	 : Sirena Beach - Hotel Delfino - Super Mario Sunshine	???
 D_SHAWN	 : Found a Pegleg Instead of a Treasure Chest			NaN 
 --------------------------------------------------------------------------------------------

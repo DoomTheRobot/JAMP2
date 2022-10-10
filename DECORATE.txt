@@ -1,19 +1,5 @@
 // JAMP 2 DECORATE by DoomTheRobot & NaN
 
-ACTOR BrownSpike 90
-{
-radius 8
-height 50
-scale 0.5
-+SOLID
-states
-  {
-  Spawn:
-    BRSP A -1
-    Stop
-  }
-}
-
 ACTOR TrafficCone 91
 {
 radius 8

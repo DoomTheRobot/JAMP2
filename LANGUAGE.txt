@@ -1,4 +1,17 @@
 [enu default] // US English written by DoomTheRobot
+// MENUDEF Stuff
+
+JAMP2_MENU1 = "This will allow you to play each level in order";
+JAMP2_MENU2 = "instead of having to use the HUB map.";
+JAMP2_MENU3 = "\"Boom Maps Only\" is MAP01 to MAP03.";
+JAMP2_MENU4 = "\"All Maps In Order\" is MAP01 to MAP07.";
+
+JAMP2_MENU5 = "Level Order";
+
+JAMP2_MENU6 = "No (Default)";
+JAMP2_MENU7 = "Boom Maps Only";
+JAMP2_MENU8 = "All Maps In Order";
+
 // Map Names
 JAMP2_TITLEMAP = "Jericoacoara Beach"; 	  		      // HUB Map
 JAMP2_MAP_LAZORINC = "Sopa de Ma Caco";				  // Lazorinc's Map
