@@ -1,0 +1,104 @@
+===========================================================================
+Advanced engine needed  : GZDoom (Recommended) OR Boom-compatible
+Primary purpose         : Single play
+===========================================================================
+Title                   : Jonathan's Arcade Mapping Project #2: Tropical
+                          Dynamite
+Filename                : JAMP2.wad
+Release date            : ??/??/2022
+Author                  : Jonathan's Arcade & Co.
+Email Address           : jonathansarcade@gmail.com
+
+Description             : After working your ass off for several years, you
+                          finally get enough PTO to get a month long
+                          vacation. Tired and wanting a getaway, you go to
+                          one the most exotic places in all of brazil:
+                          Jericoacoara Beach. Little did you know that once
+                          you got there, you spot a bunch of demons eating
+                          all the sand and hogging up the waves. Looks like
+                          they also managed to take control of several other
+                          exotic locations and paradises around the world
+                          thanks to the UAC making quick teleportation to
+                          said locations easily available to the demons.
+                          Well, guess it's time to crash this party.
+                          
+                          A collaborative Doom 2 mapping project created by
+                          DoomTheRobot and various members of Jonathan's
+                          Arcade, a community Discord. Maps vary from
+                          complete newcomers to experienced, with map formats
+                          ranging from Boom to UDMF. Mappers had roughly 3-4
+                          months to map while another couple of months was
+                          spent fixing bugs and other various issues.
+                          
+                          Map Authors:
+                          TITLEMAP : Jericoacoara Beach		DoomTheRobot & NaN
+                          MAP01	 : Sopa de Ma Caco		Lazorinc
+                          MAP02	 : Armadeira			Ayeloo
+                          MAP03	 : Stay With Me			General Roasterock
+                          MAP04	 : Cozy Cove			DoomTheRobot
+                          MAP05	 : nao perca seu caminho	Agent Manovic
+                          MAP06	 : Sir Tevo			OiaHusk
+                          MAP07	 : Duo Eye Pogo			NaN
+
+Additional Credits to   : Please see the CREDITS text lump inside the wad for
+                          a full and proper credits list.
+                          
+                          Textures: UDMX, 32in24-15, Duke Caribbean: Life's A
+                          Beach
+                          TITLEPIC, CREDIT, INTERPIC: Ayeloo
+                          M_DOOM: NaN
+                          
+                          
+===========================================================================
+* What is included *
+
+New levels              : 7 (+1 for TITLEMAP)
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : Port specific lumps such as MAPINFO
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01-MAP07
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only (except map05, map06 and map07)
+Deathmatch 2-4 Player   : Player starts only (except titlemap, map02, map05 and map06)
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : About six months
+Editor(s) used          : Various
+Known Bugs              : You may have framerate problems on the TITLEMAP. We
+                          tried optimizing nearly everything but we're still
+                          unsure what causes the game to lag.
+May Not Run With        : Zandronum 3.1, ZDoom 2.8.1, Odamex 10.2.0
+Tested With             : GZDoom 4.8.2, DSDA-Doom 0.24.3, Eternity 4.02.00
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You are free to copy and redistribute the material in any medium or format.
+If you do so, you must give appropriate credit, provide a link to the
+license, and indicate if changes were made. You may do so in any reasonable
+manner, but not in any way that suggests the licensor endorses you or your
+use. You may not use the material for commercial purposes. If you remix,
+transform, or build upon the material, you may not distribute the modified
+material.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

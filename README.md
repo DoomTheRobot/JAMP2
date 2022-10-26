@@ -2,8 +2,7 @@
 
 ![M_Doom Art](/graphics/JAMP2.png)
 
-Currently a huge W.I.P.
-Please join our [Discord](https://discord.gg/xZd5MxK) for more information.
+A collaborative Doom 2 mapping project created by DoomTheRobot and various members of [Jonathan's Arcade, a community Discord](https://discord.gg/xZd5MxK). Maps vary from complete newcomers to experienced, with map formats ranging from Boom to UDMF. Mappers had roughly 3-4 months to map while another couple of months was spent fixing bugs and other various issues.
 
 # Story
 
@@ -11,4 +10,4 @@ After working your ass off for several years, you finally get enough PTO to get 
 
 #
 
-Full list of credits are in [CREDITS.txt](CREDITS.txt)
+A Full list of credits are in [CREDITS.txt](CREDITS.txt)
