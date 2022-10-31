@@ -1,4 +1,7 @@
 [enu default] // US English written by DoomTheRobot
+
+JAMP2_INTRO = "A Doom Mod Created by:";
+
 // MENUDEF Stuff
 
 JAMP2_MENU1 = "This will allow you to play each level in order";

@@ -5,7 +5,7 @@ Primary purpose         : Single play
 Title                   : Jonathan's Arcade Mapping Project #2: Tropical
                           Dynamite
 Filename                : JAMP2.wad
-Release date            : ??/??/2022
+Release date            : 10/31/2022
 Author                  : Jonathan's Arcade & Co.
 Email Address           : jonathansarcade@gmail.com
 
