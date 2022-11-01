@@ -1,4 +1,6 @@
 ===========================================================================
+Archive Maintainer      : This new version should have the unmodified id Software resources removed.
+Update to               : JAMP2.wad
 Advanced engine needed  : GZDoom (Recommended) OR Boom-compatible
 Primary purpose         : Single play
 ===========================================================================
