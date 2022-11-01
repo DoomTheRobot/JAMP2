@@ -12,6 +12,10 @@ After working your ass off for several years, you finally get enough PTO to get 
 
 To play this with GZDoom, please refer to the "[Installation and execution of ZDoom](https://zdoom.org/wiki/Installation_and_execution_of_ZDoom)" article on the ZDoom Wiki for instructions on how to install and play.
 
+# Discuss this on the forums
+
+[Doomworld](https://www.doomworld.com/forum/topic/130574-community-project-release-jonathans-arcade-mapping-project-2-tropical-dynamite/) | [ZDoom Forums](https://forum.zdoom.org/viewtopic.php?f=42&t=76097&p=1226234)
+
 #
 
 A Full list of credits are in [CREDITS.txt](CREDITS.txt)
